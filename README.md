@@ -26,7 +26,7 @@ Serão dois selecionados e apos o desafio técnico teremos conversas por skype, 
 
 ## O desafio
 
-Vamos dar uma olhada na previsão do tempo? A meta é criarmos uma página simples, que consuma a API do Yahoo de previsão do tempo (https://developer.yahoo.com/weather/). O layout final deverá ficar o mais próximo possível da versão abaixo (sim, vamos ter a versão responsiva mobile e a versão desktop):
+Vamos dar uma olhada na previsão do tempo? A meta é criarmos uma página simples, que consuma a API do  de previsão do tempo (https://www.weatherapi.com/). O layout final deverá ficar o mais próximo possível da versão abaixo (sim, vamos ter a versão responsiva mobile e a versão desktop):
 
 Web:
 
